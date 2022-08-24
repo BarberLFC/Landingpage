@@ -1,2 +1,2 @@
-# KomiK
-Comic collection management site
+# landingpage
+landing page for TOP
